@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.phonegap.zamxafoods" version="1.0.0" android-versionCode="10000" ios-CFBundleVersion="1.0.0">
-  <name>ZAMXA Restaurants</name>
+  <name>ZAMXA Foods</name>
     <description>
         No 1 Food Vendor Platform.
     </description>
